@@ -3,7 +3,7 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 
 ## Links and Study Materials
 
-* [Bootcamp public page](https://shinstitute.org/intro-to-hpc-bootcamp/)
+* [Bootcamp public page](https://intro-hpc-bootcamp-stg.alcf.anl.gov/)
 * [Perlmutter](https://docs.nersc.gov/systems/perlmutter/)
 * [OLCF Intro to Python repo](https://github.com/olcf/foundational_hpc_skills/tree/master/intro_to_python)
 * [Pandas tutorial](https://www.activestate.com/resources/quick-reads/what-is-pandas-in-python-everything-you-need-to-know/)
@@ -11,22 +11,15 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 
 ## Presentations
 * Monday
-  * [Welcome and Safety Logistics, Rebecca Hartman-Baker](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/Welcome_and_Safety_Logistics.pdf)
-  * [Intro to HPC Bootcamp Kickoff and Warm-up Activities, Mary Ann Leung](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/Intro_HPC_Bootcamp_2023_Kickoff_Warm_Up_Logistics.pdf)
-  * [Energy Justice Keynote Talk, Anjuli Jain Figueroa](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/2023-08-07-EJ-and-Data-Driven-Decisions-HPC-at-LBNL-AJF.pdf)
-  * [Introduction to Computational Thinking, Kate Cahill](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/CompThink-new%20template.pdf)
-  * [LBNL Lab Director Welcome Students, Mike Witherell](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/Mike_Witherell_NERSC_bootcamp_08072023.pdf)
+
 * Tuesday
-  * [NERSC Tour, August 2023, Richard Gerber](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/NERSC-Tour-August-2023.pdf)
-  * [Using Perlmutter, Daniel Fulton, Rollin Thomas, Helen He](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/Using-Perlmutter-20230808.pdf)
-  * [Introduction to NERSC and Supercomputing, August 8, 2023, Rebecca Hartman-Baker, Charles Lively III](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/NERSC-Welcome-HPCBootcamp-08072023.pdf)
-  * [Introduction to Scientific Computing and Data Visualization, Kellen Leland](https://github.com/kellenrl/hpcbootcamp_sc_dv_intro)
+
 * Wednesday
-  * [Introduction to Regression Analysis, Wilbur Ouma](https://github.com/Wilber/hpcbootcamp_regression)
+
 * Thursday
-  * [How HPC can advance discovery & DOE Researcher Panel, Suzanne Parete-Koon](https://docs.google.com/presentation/d/18UNb5CBaO4N3G9qbeUdfHPK3PscLauHPi5UI56jpyPQ/edit?usp=sharing)
+
 * Friday
-  * [Intro to HPC Bootcamp Wrapup and Next Steps, Mary Ann Leung](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/Intro_HPC_Bootcamp_Next_Steps_Opportunities.pdf)
+
  
 ## Projects
 | **Project (and link project description)**                                                                                                                                                                                                                                    | Project Page                                                                              | Institution              | **Lead**                                      |
