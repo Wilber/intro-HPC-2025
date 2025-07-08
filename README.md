@@ -11,13 +11,18 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 
 ## Presentations
 * Monday
-
+  * Intro to HPC Bootcamp Welcome, Paige Kinsley
+  * Welcome to the World of High-Performance Computing, Mike Papka
+  * High-Performance Computing Keynote, Kevin Brown
+  * Projects Overview, Paige Kinsley
 * Tuesday
-
+  * Introduction to Parallelization, Rebecca Hartman-Baker
+  * Artificial Intelligence Keynote
 * Wednesday
-
+  * Introduction to Data Visualization, Kristy Streu
+  * [Introduction to Regression Analysis and Applications to AI, Wilbur Ouma](https://github.com/Wilber/hpcbootcamp_regression)
 * Thursday
-
+  * Giving a Good Presentation, Paige Kinsley
 * Friday
 
  
