@@ -51,8 +51,7 @@ This repository contains information related to the Intro to HPC Bootcamp held i
   ```
 * The following are the compute node reservations available during the boot camp (in Pacific time):
   * Monday, 2:30 pm - 5:30 pm, reservation names `intro_hpc_day1` (for all projects) and `cpu_day1` (for project 3)
-  * Tuesday, 10:00 am - 12:30 pm, reservation names `intro_hpc_day2_am` (for all projects) and 'cpu_day2_am' (for project 3)
-  * Tuesday, 3:00 pm - 5:30 pm, reservation names `intro_hpc_day2_pm` (for all projects) and `cpu_day2_pm` (for project 3)
+  * Tuesday, 3:00 pm - 5:30 pm, reservation names `intro_hpc_day2_pm` (for all projects) and `cpu_day2` (for project 3)
   * Wednesday, 9:00 am - 5:30 pm, reservation names `intro_hpc_day3` (for all projects) and `cpu_day3` (for project 3)
   * Thursday, 12:00 pm - 8:30 pm, reservation names `intro_hpc_day4` (for all projects) and `cpu_day4` (for project 3)
 
