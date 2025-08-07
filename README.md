@@ -47,7 +47,7 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 * Any student who would like to do some individual tests can work in their own scratch directory:
   ```
   cd $SCRATCH
-  cp -r $CFS/m4388/Project2A .
+  cp -r $CFS/m4388/Project2 .
   ```
 * The following are the compute node reservations available during the boot camp (in Pacific time):
   * Monday, 2:30 pm - 5:30 pm, reservation names `intro_hpc_day1` (for all projects) and `cpu_day1` (for project 3)
