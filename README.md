@@ -37,23 +37,24 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 
 ## Working on Project in Groups
 
-* Besides those projects materials provided via links in the above table, each project has also prepared the project descriptions and data in the m4388 project area on the Community File System (CFS) on Perlmutter at `/global/cfs/cdirs/m4388/Project*-<name>`, such as `Project2-ClimRR`.
-* Students who work on Project X Group Y will work in a shared directory in CFS at /global/cfs/cdirs/m4388/Project*-Group*, such as `Prj2-GroupC`.
-* Using Prj2-GroupC as an example, you can run this command to copy over the entire Project, after login to Perlmutter:
+* Besides those projects materials provided via links in the above table, each project has also prepared the project descriptions and data in the m4388 project area on the Community File System (CFS) on Perlmutter at `/global/cfs/cdirs/m4388/Project*`, such as `Project2`.
+* Students who work on Project X Group Y will work in a shared directory in CFS at /global/cfs/cdirs/m4388/GroupXY, such as `Group2A`.
+* Using Group2A as an example, you can run this command to copy over the entire Project, after login to Perlmutter:
   ```
-  cd $CFS/m4388/Prj3-GroupC
-  cp -r $CFS/m4388/Project2-ClimRR .
+  cd $CFS/m4388/Group2A
+  cp -r $CFS/m4388/Project2 .
   ```
 * Any student who would like to do some individual tests can work in their own scratch directory:
   ```
   cd $SCRATCH
-  cp -r $CFS/m4388/Project2-ClimRR .
+  cp -r $CFS/m4388/Project2A .
   ```
 * The following are the compute node reservations available during the boot camp (in Pacific time):
-  * Monday, 3 pm - 5 pm, reservation name `intro_hpc_aug7`
-  * Tuesday, 10:30 am - 5 pm, reservation name `intro_hpc_aug8`
-  * Wednesday, 1:30 pm - 5 pm, reservation name `intro_hpc_aug9`
-  * Thursday, 1 pm - 10 pm, reservation name `intro_hpc_aug10`
+  * Monday, 2:30 pm - 5:30 pm, reservation names `intro_hpc_day1` (for all projects) and `cpu_day1` (for project 3)
+  * Tuesday, 10:00 am - 12:30 pm, reservation names `intro_hpc_day2_am` (for all projects) and 'cpu_day2_am' (for project 3)
+  * Tuesday, 3:00 pm - 5:30 pm, reservation names `intro_hpc_day2_pm` (for all projects) and `cpu_day2_pm` (for project 3)
+  * Wednesday, 9:00 am - 5:30 pm, reservation names `intro_hpc_day3` (for all projects) and `cpu_day3` (for project 3)
+  * Thursday, 12:00 pm - 8:30 pm, reservation names `intro_hpc_day4` (for all projects) and `cpu_day4` (for project 3)
 
 ## Study Materials
 
