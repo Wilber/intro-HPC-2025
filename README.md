@@ -9,7 +9,7 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 * [Pandas tutorial](https://www.activestate.com/resources/quick-reads/what-is-pandas-in-python-everything-you-need-to-know/)
 * [Example interactive Notebooks for data research from Environmental Enforcement Watch](https://www.environmentalenforcementwatch.org/data/notebooks)
 
-## Presentations
+## Presentations and Tutorials
 * Monday
   * Intro to HPC Bootcamp Welcome, Paige Kinsley
   * Welcome to the World of High-Performance Computing, Mike Papka
