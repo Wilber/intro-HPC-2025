@@ -20,7 +20,7 @@ This repository contains information related to the Intro to HPC Bootcamp held i
   * AI Keynote: Artificial Intelligence to Determine Actionable Cancer States, Alexander Pearson , Associate Professor of Medicine, University of Chicago
 * Wednesday
   * Introduction to Data Visualization, Kristy Streu
-  * [Introduction to Regression Analysis and Applications to AI, Wilbur Ouma](https://github.com/Wilber/hpcbootcamp_regression)
+  * [Introduction to Regression Analysis and Applications to AI, Wilbur Ouma](https://github.com/Wilber/hpcbootcamp_regression_AI)
 * Thursday
   * Giving a Good Presentation, Paige Kinsley
  
